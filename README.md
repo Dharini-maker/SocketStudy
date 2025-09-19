@@ -113,7 +113,8 @@ server_socket.close()
 ```
 
 ## OUTPUT:
-![Uploading out.jpg…]()
+![out](https://github.com/user-attachments/assets/56fac587-99cd-4fcf-9e59-3c86d95e7e58)
+
 
 
 
